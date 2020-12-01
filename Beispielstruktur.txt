@@ -1,0 +1,24 @@
+kochwelt/root
+- index.html
+- recept.html
+- imprint.html
+- data-protection.html
+
+css
+ - style.css
+   Schriftart, Link, Button, Menü, Header, Footer, img, table, padding-left padding-right, input
+ - landing.css
+ - recepy.css
+
+js
+ - script.js
+ - landing.js
+ - recepy.js
+
+
+index.html
+recepy.html
+upload.html
+contact.html
+imprint.html
+data-protection.html
